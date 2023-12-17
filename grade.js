@@ -15,4 +15,3 @@ else if (score >=40){
 else{
     return E
 }
-console.log(grades);
