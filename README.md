@@ -1,12 +1,13 @@
 # Week-1-toy-problem
 # GRADE.JS
 A function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below:
-Score      Grades
+<ul>Score      Grades
 80-100       A
 60-79        B
 49-59        C
 40-49        D
 0-40         E
+</ul>
 
 # SPEED.JS
 A program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
