@@ -17,12 +17,20 @@ A program that takes the speed of a car as input e.g 80. If the speed is less th
 A program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits.
 
 # Setup/Installation Requirements
-Clone the repository to any desired folder in your computer
-Open the cloned folder with vscode.
-Run individual files in your terminal using the command node name_of_the_file i.e node 1.grade_generator.js
+<ul>
+<li>Clone the repository to any desired folder in your computer.</li>
+<li>Open the cloned folder with vscode.</li>
+<li>Run individual files in your terminal using the command node name_of_the_file i.e node 1.grade_generator.js</li>
+</ul>
+
 # Technologies used
-Javascript
-Terminal
+<ul>
+<li>Javascript</li>
+<li>Terminal</li>
+</ul>
+
 # Support and contact details
-email :: zeidhassan4@gmail.com
-phone :: +254112448712
+<ul>
+<li>email :: zeidhassan4@gmail.com</li>
+<li>phone :: +254112448712</li>
+</ul>
