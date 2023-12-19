@@ -1,17 +1,19 @@
-let score = 65
 let grades;
+function myGrades(score){
 if (score > 79){
-   return A
+   return 'A'
 }
 else if (score >= 60){
-  return B
+  return 'B'
 }
 else if (score >=50){
-  return C
+  return 'C'
 }
 else if (score >=40){
-  return D
+ return 'D'
 }
 else{
-    return E
+  return 'E'
 }
+}
+console.log(myGrade(56));
